@@ -13,6 +13,6 @@ To obtain this pipeline, the following was done:
 * The irrelevant columns were dropped.
 * In the column reviews_per_month the missing values were replaced with 0.0
 * The categorical variables were codificated
-* The listing with price least or equal tha 0 were removed.
+* The listing with price least or equal than 0 were removed.
 
 Finally the pipeline was saved in cvs file.
